@@ -1,0 +1,38 @@
+.intro-container {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+.main-section {
+    width: 100%;
+}
+
+.intro-card {
+    background: #eaf1fb;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(44,62,80,0.10);
+    padding: 2rem;
+    max-width: 600px;
+    width: 100%;
+}
+
+.card-highlight {
+    border-left: 6px solid #0078d4;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #2d3e50;
+    margin-bottom: 1rem;
+}
+
+.intro-text {
+    font-size: 1.05rem;
+    color: #333;
+    margin-bottom: 0.7rem;
+}
+h1 {
+    text-align: center;
+}
